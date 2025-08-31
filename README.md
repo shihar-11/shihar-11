@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Joshi</h1>
 <h3 align="center">AI/ML student and aspiring developer, blending a love for machine learning with hands-on hardware and web projects. I'm a skilled Python programmer, with a focus on creating both intelligent systems and interactive applications.</h3>
 
-<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub)"><img src="https://github-profile-trophy.vercel.app/?username=l3nfr&theme=darkhub" alt="l3nfr" /></a> </p>
+<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub)"><img src="https://github-profile-trophy.vercel.app/?username=l3nfr&theme=darkhub&title=Joined2020,Repositories,Experience,Commits,Followers" alt="l3nfr" /></a> </p>
 
 - 🔭 I’m currently working on **Wardrobe management app**
 
