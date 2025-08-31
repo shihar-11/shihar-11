@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshit Joshi</h1>
+<h1 align="center">Hi <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">, I'm Harshit Joshi</h1>
 <h3 align="center">AI/ML student and aspiring developer, blending a love for machine learning with hands-on hardware and web projects. I'm a skilled Python programmer, with a focus on creating both intelligent systems and interactive applications.</h3>
 
 <p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub)"><img src="https://github-profile-trophy.vercel.app/?username=l3nfr&theme=darkhub&title=Joined2020,Repositories,Experience,Commits,Followers" alt="l3nfr" /></a> </p>
@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/harshit-joshi11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-joshi11" height="30" width="40" /></a>
 <a href="https://instagram.com/h4rsh1t._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h4rsh1t._" height="30" width="40" /></a>
-<a href="https://discord.gg/640070699918163968" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="640070699918163968" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/640070699918163968" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="640070699918163968" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
